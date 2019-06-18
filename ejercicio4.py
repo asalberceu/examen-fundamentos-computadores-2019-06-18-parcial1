@@ -1,8 +1,16 @@
 # Escribir un programa que elimine de una lista dada todos los elementos repetidos 
 # y muestre por pantalla los elementos de la lista sin repeticiones.
 
-# Lista de ejemplo
-lista = [2, 4, 8, 4, 1, 1, 1, 3, 8, 9, 8, 7, 8, 4, 2, 5, 1]
 
+l= []
+pregunta= int(input('Introduce los elementos que quieras meter en la lista: '))
+for i in range (pregunta):
+    l.append(input('Introduce el elemento que quieres que vaya en la siguiente posición: '))
+    print(l)
 
-# Debe mostrar 2, 4, 8, 1, 3, 9, 7, 5 
+lsinrepetir = [] 
+for i in l:
+    if i not in lsinrepetir:
+        lsinrepetir.append(i)  
+        print(lsinrepetir)
+
