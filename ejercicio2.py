@@ -13,17 +13,3 @@ elif parcial1 < 4:
 elif parcial2 < 4:
     print('suspenso, es el parcial 1 el que tienes que repetir por estar suspenso')
 
-
-#if parcial1 or parcial2 < 4:
-#    print('suspenso, ya que no llega al 4')
-#    if parcial1 < 4:
-#        print('es el parcial 1 el que tienes que repetir por estar suspenso')
-#        if parcial1 < 4:
-#            print('es el parcial 2 el que tienes que repetir por estar suspenso')
-#elif parcial1 >= 4 and parcial2 >= 4:
-#    media=(parcial1 + parcial2)/2
-#    if media >= 5:
-#        print('aprobado, su media es: ', media)
-#    else:
-#        print('suspenso')
-
