@@ -3,6 +3,7 @@
 
 # Lista de ejemplo
 lista = [2, 4, 8, 4, 1, 1, 1, 3, 8, 9, 8, 7, 8, 4, 2, 5, 1]
-
+lista2 = list(set(lista))
+print(lista2)
 
 # Debe mostrar 2, 4, 8, 1, 3, 9, 7, 5 
