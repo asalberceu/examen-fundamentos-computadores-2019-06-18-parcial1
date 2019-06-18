@@ -1,0 +1,23 @@
+diff --git a/ejercicio3.py b/ejercicio3.py
+deleted file mode 100644
+index 179eea4..0000000
+--- a/ejercicio3.py
++++ /dev/null
+@@ -1,4 +0,0 @@
+-# Un $n$-grama es una secuencia de $n$ caracteres consecutivos de una cadena.
+-# Escribir un programa que pregunte por una cadena y un número entero positivo $n$ y 
+-# muestre por pantalla todos los $n$-gramas de la cadena.
+-
+diff --git a/ejercicio4.py b/ejercicio4.py
+deleted file mode 100644
+index 4259079..0000000
+--- a/ejercicio4.py
++++ /dev/null
+@@ -1,8 +0,0 @@
+-# Escribir un programa que elimine de una lista dada todos los elementos repetidos 
+-# y muestre por pantalla los elementos de la lista sin repeticiones.
+-
+-# Lista de ejemplo
+-lista = [2, 4, 8, 4, 1, 1, 1, 3, 8, 9, 8, 7, 8, 4, 2, 5, 1]
+:
+
