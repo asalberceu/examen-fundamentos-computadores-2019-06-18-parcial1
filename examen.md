@@ -18,7 +18,7 @@ A lo largo de un curso se realizan dos exámenes parciales. Para aprobar el curs
 Nota: Utilizar el fichero `ejercicio2.py`.
 
 ## Ejercicio 3 (3 puntos)
-Un $n$-grama es una secuencia de $n$ caracteres consecutivos de una cadena. Por ejemplo, los 3-gramas de la cadena `'Python'` son `'Phy'`, `'hyt'`, `'yto'` y `'ton'`. Escribir un programa que pregunte por una cadena y un número entero positivo $n$ y muestre por pantalla todos los $n$-gramas de la cadena.
+Un n-grama es una secuencia de $n$ caracteres consecutivos de una cadena. Por ejemplo, los 3-gramas de la cadena `'Python'` son `'Pyt'`, `'yth'`, `'tho'` y `'hon'`. Escribir un programa que pregunte por una cadena y un número entero positivo $n$ y muestre por pantalla todos los n-gramas de la cadena.
 
 Nota: Utilizar el fichero `ejercicio3.py`.
 

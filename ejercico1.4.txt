@@ -1,0 +1,19 @@
+diff --git a/ejercicio2.py b/ejercicio2.py
+new file mode 100644
+index 0000000..dc4183d
+--- /dev/null
++++ b/ejercicio2.py
+@@ -0,0 +1,3 @@
++# Escribir un programa para ver si un alumno ha aprobado o no un curso con dos exámenes parciales.
++# Para aprobar el curso la nota media debe ser mayor o igual que 5 siempre y cuando en ambos parciales se tenga al menos un 4.
++
+diff --git a/ejercicio3.py b/ejercicio3.py
+new file mode 100644
+index 0000000..179eea4
+--- /dev/null
++++ b/ejercicio3.py
+@@ -0,0 +1,4 @@
++# Un $n$-grama es una secuencia de $n$ caracteres consecutivos de una cadena.
++# Escribir un programa que pregunte por una cadena y un número entero positivo $n$ y 
++# muestre por pantalla todos los $n$-gramas de la cadena.
++
